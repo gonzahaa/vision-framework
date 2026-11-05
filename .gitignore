@@ -24,3 +24,4 @@ agency-agents/upstream/
 
 # Project reference documents are local inputs by default
 refdocs/*
+!refdocs/.gitkeep
